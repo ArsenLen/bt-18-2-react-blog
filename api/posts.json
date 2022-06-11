@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "new-hello",
+      "descr": "new-world",
+      "category": "news"
+    },
+    {
+      "id": 2,
+      "title": "The title of second post",
+      "descr": "The descr of second post",
+      "category": "article"
+    }
+  ]
+}
