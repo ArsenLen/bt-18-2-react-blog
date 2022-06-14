@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Main title="The title of 4th post" />
+      <Main />
       <Footer />
     </div>
   );
